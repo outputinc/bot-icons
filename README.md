@@ -1,2 +1,2 @@
-# zapier-docs
-Documentation and assets for Output Zapier automations
+# bot-icons
+Just a place for some icons and thumbnails
